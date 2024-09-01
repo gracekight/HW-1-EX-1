@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # stage changes
-git _
+git add flow.sh
 
 # commit changes
-git _
+git commit -m "edited workflow"
 
 # push changes
-git _
+git push
