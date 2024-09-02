@@ -7,4 +7,4 @@ git add flow.sh
 git commit -m "edited workflow"
 
 # push changes
-git push
+git push --all
